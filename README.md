@@ -1,1 +1,1 @@
-# All of my labs for intro to programming 
+# All of my labs for introduction to programming 
